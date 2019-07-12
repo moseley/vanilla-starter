@@ -1,0 +1,12 @@
+# Dependencies
+node_modules
+
+# Build
+dist
+
+# MacOS
+.DS_Store
+
+# Environment
+.env.development
+.env.production
